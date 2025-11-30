@@ -48,7 +48,7 @@ const ProductGrid: React.FC<ProductGridProps> = ({ selectedCategory }) => {
 
     // Cargar productos al montar el componente
     useEffect(() => {
-        fetch('/data/products.json')
+        fetch(`${import.meta.env.BASE_URL}data/products.json`)
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Error al cargar los productos');
