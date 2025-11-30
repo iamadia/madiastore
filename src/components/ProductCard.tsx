@@ -36,7 +36,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
 
       <div className="product-image-container">
         <img
-          src={product.image}
+          src={`${import.meta.env.BASE_URL}${product.image}`}
           alt={`${product.name} ${product.color}`}
           className="product-image"
           onError={(e) => {
