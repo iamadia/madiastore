@@ -5,20 +5,9 @@
         "color": "Rosado",
         "storage": "128GB",
         "condition": "Nuevo",
-        "price": 350000,
+        "price": 360000,
         "image": "images/products/iphone-15-pink.png",
         "description": "iPhone 15 con Dynamic Island, cámara principal de 48 MP y diseño en aluminio de colores.",
-        "category": "iPhone"
-    },
-    {
-        "id": "iphone-15-pro-max-256gb-used",
-        "name": "iPhone 15 Pro Max",
-        "color": "Titanio Natural",
-        "storage": "256GB",
-        "condition": "Usado",
-        "price": 380000,
-        "image": "images/products/iphone-15-pro-max-natural.png",
-        "description": "iPhone 15 Pro Max usado en excelente estado, con pantalla Super Retina XDR de 6.7 pulgadas y chip A17 Pro.",
         "category": "iPhone"
     },
     {
@@ -27,7 +16,7 @@
         "color": "Varios",
         "storage": "128GB",
         "condition": "Nuevo",
-        "price": 330000,
+        "price": 340000,
         "image": "images/products/iphone-16-white.png",
         "description": "iPhone 16e con chip A18 y diseño eficiente.",
         "category": "iPhone"
@@ -38,7 +27,7 @@
         "color": "Varios",
         "storage": "256GB",
         "condition": "Nuevo",
-        "price": 360000,
+        "price": 370000,
         "image": "images/products/iphone-16-white.png",
         "description": "iPhone 16e con chip A18 y diseño eficiente.",
         "category": "iPhone"
@@ -49,7 +38,7 @@
         "color": "Negro",
         "storage": "128GB",
         "condition": "Nuevo",
-        "price": 430000,
+        "price": 440000,
         "image": "images/products/iphone-16-black.png",
         "description": "iPhone 16 con chip A18, botón de Control de Cámara y diseño resistente.",
         "category": "iPhone"
@@ -60,7 +49,7 @@
         "color": "Rosado",
         "storage": "128GB",
         "condition": "Nuevo",
-        "price": 430000,
+        "price": 440000,
         "image": "images/products/iphone-16-pink.png",
         "description": "iPhone 16 con chip A18, botón de Control de Cámara y diseño resistente.",
         "category": "iPhone"
@@ -71,20 +60,9 @@
         "color": "Titanio Negro",
         "storage": "128GB",
         "condition": "Nuevo",
-        "price": 490000,
+        "price": 500000,
         "image": "images/products/iphone-16-pro-black.png",
         "description": "iPhone 16 Pro con chip A18 Pro, pantalla más grande y batería de mayor duración.",
-        "category": "iPhone"
-    },
-    {
-        "id": "iphone-16-pro-max-256gb-used",
-        "name": "iPhone 16 Pro Max",
-        "color": "Titanio Natural",
-        "storage": "256GB",
-        "condition": "Usado",
-        "price": 490000,
-        "image": "images/products/iphone-16-pro-max-natural.png",
-        "description": "iPhone 16 Pro Max usado en excelente estado, con la pantalla más grande de iPhone.",
         "category": "iPhone"
     },
     {
@@ -93,7 +71,7 @@
         "color": "Varios",
         "storage": "256GB",
         "condition": "Nuevo",
-        "price": 550000,
+        "price": 560000,
         "image": "images/products/iphone-16-white.png",
         "description": "iPhone 17 con las últimas innovaciones de Apple.",
         "category": "iPhone"
@@ -104,7 +82,7 @@
         "color": "Varios",
         "storage": "256GB",
         "condition": "Nuevo",
-        "price": 600000,
+        "price": 610000,
         "image": "images/products/iphone-16-white.png",
         "description": "iPhone 17 Air con diseño ultradelgado y tecnología de vanguardia.",
         "category": "iPhone"
@@ -115,7 +93,7 @@
         "color": "Azul",
         "storage": "256GB",
         "condition": "Nuevo",
-        "price": 690000,
+        "price": 700000,
         "image": "images/products/iphone-15-pro-blue.png",
         "description": "iPhone 17 Pro con rendimiento profesional y diseño premium.",
         "category": "iPhone"
@@ -126,7 +104,7 @@
         "color": "Varios",
         "storage": "256GB",
         "condition": "Nuevo",
-        "price": 750000,
+        "price": 760000,
         "image": "images/products/iphone-16-pro-max-natural.png",
         "description": "iPhone 17 Pro Max con la mejor pantalla y batería de la historia de iPhone.",
         "category": "iPhone"
@@ -137,7 +115,7 @@
         "color": "Varios",
         "storage": "512GB",
         "condition": "Nuevo",
-        "price": 850000,
+        "price": 860000,
         "image": "images/products/iphone-16-pro-max-natural.png",
         "description": "iPhone 17 Pro Max con la mejor pantalla y batería de la historia de iPhone.",
         "category": "iPhone"
@@ -148,7 +126,7 @@
         "color": "Varios",
         "storage": "1TB",
         "condition": "Nuevo",
-        "price": 950000,
+        "price": 960000,
         "image": "images/products/iphone-16-pro-max-natural.png",
         "description": "iPhone 17 Pro Max con la mejor pantalla y batería de la historia de iPhone.",
         "category": "iPhone"
@@ -159,7 +137,7 @@
         "color": "Blanco",
         "storage": "Con estuche de carga",
         "condition": "Nuevo",
-        "price": 65000,
+        "price": 63000,
         "image": "images/products/airpods-2nd-gen.png",
         "description": "AirPods de segunda generación con estuche de carga y audio de alta calidad.",
         "category": "AirPods"
@@ -170,7 +148,7 @@
         "color": "Blanco",
         "storage": "USB-C",
         "condition": "Nuevo",
-        "price": 140000,
+        "price": 130000,
         "image": "images/products/airpods-pro-2.png",
         "description": "AirPods Pro con cancelación activa de ruido, audio espacial y estuche de carga USB-C.",
         "category": "AirPods"
@@ -181,7 +159,7 @@
         "color": "Blanco",
         "storage": "USB-C",
         "condition": "Nuevo",
-        "price": 125000,
+        "price": 115000,
         "image": "images/products/airpods-4-anc.png",
         "description": "AirPods 4 con cancelación activa de ruido, audio espacial personalizado y estuche USB-C.",
         "category": "AirPods"
@@ -192,7 +170,7 @@
         "color": "Starlight Aluminum",
         "storage": "GPS, Pure Platinum/Black",
         "condition": "Nuevo",
-        "price": 155000,
+        "price": 145000,
         "image": "images/products/apple-watch-nike-s7.png",
         "description": "Apple Watch Nike Series 7 con caja de aluminio Starlight y correa deportiva Nike.",
         "category": "Watch"
@@ -203,7 +181,7 @@
         "color": "Midnight Aluminum",
         "storage": "GPS, 45mm",
         "condition": "Nuevo",
-        "price": 160000,
+        "price": 165000,
         "image": "images/products/apple-watch-s8-midnight.png",
         "description": "Apple Watch Series 8 de 45mm con caja de aluminio medianoche y correa deportiva.",
         "category": "Watch"
@@ -214,7 +192,7 @@
         "color": "Midnight Aluminum",
         "storage": "GPS, 45mm",
         "condition": "Nuevo",
-        "price": 195000,
+        "price": 185000,
         "image": "images/products/apple-watch-s9-midnight.png",
         "description": "Apple Watch Series 9 de 45mm con caja de aluminio medianoche y correa deportiva.",
         "category": "Watch"
@@ -225,7 +203,7 @@
         "color": "Pink Aluminum",
         "storage": "GPS, 41mm",
         "condition": "Nuevo",
-        "price": 180000,
+        "price": 185000,
         "image": "images/products/apple-watch-s9-pink.png",
         "description": "Apple Watch Series 9 de 41mm con caja de aluminio rosado y correa deportiva rosa claro.",
         "category": "Watch"
@@ -236,7 +214,7 @@
         "color": "Jet Black Aluminum",
         "storage": "GPS, 46mm",
         "condition": "Nuevo",
-        "price": 240000,
+        "price": 245000,
         "image": "images/products/apple-watch-s10-jet-black.png",
         "description": "Apple Watch Series 10 de 46mm con caja de aluminio negro azabache y correa deportiva negra.",
         "category": "Watch"
@@ -247,7 +225,7 @@
         "color": "Azul Cielo",
         "storage": "Wi-Fi, 64GB",
         "condition": "Nuevo",
-        "price": 260000,
+        "price": 240000,
         "image": "images/products/ipad-air-4-blue.png",
         "description": "iPad Air de 4ª generación con pantalla Liquid Retina de 10.9 pulgadas y chip A14 Bionic.",
         "category": "iPad"
@@ -258,7 +236,7 @@
         "color": "Gris Espacial",
         "storage": "Wi-Fi, 256GB",
         "condition": "Nuevo",
-        "price": 320000,
+        "price": 300000,
         "image": "images/products/ipad-air-5-space-gray.png",
         "description": "iPad Air de 5ª generación con chip M1, pantalla Liquid Retina de 10.9 pulgadas.",
         "category": "iPad"
@@ -269,7 +247,7 @@
         "color": "Gris Espacial",
         "storage": "Wi-Fi, 128GB",
         "condition": "Nuevo",
-        "price": 390000,
+        "price": 360000,
         "image": "images/products/ipad-air-11-m3.png",
         "description": "iPad Air de 11 pulgadas con chip M3, diseño delgado y potencia increíble para creatividad.",
         "category": "iPad"
@@ -280,7 +258,7 @@
         "color": "Plata",
         "storage": "Wi-Fi, 128GB",
         "condition": "Nuevo",
-        "price": 400000,
+        "price": 410000,
         "image": "images/products/ipad-pro-11-silver.png",
         "description": "iPad Pro de 11 pulgadas con chip M2, pantalla Liquid Retina y rendimiento extremo.",
         "category": "iPad"
@@ -291,7 +269,7 @@
         "color": "Gris Espacial",
         "storage": "Wi-Fi, 64GB",
         "condition": "Nuevo",
-        "price": 260000,
+        "price": 270000,
         "image": "images/products/ipad-mini-6-space-gray.png",
         "description": "iPad mini de 8.3 pulgadas con chip A15 Bionic, diseño compacto y potente.",
         "category": "iPad"
@@ -302,7 +280,7 @@
         "color": "Gris Espacial",
         "storage": "8GB RAM, 512GB SSD",
         "condition": "Nuevo",
-        "price": 590000,
+        "price": 550000,
         "image": "images/products/macbook-pro-13-m2-space-gray.png",
         "description": "MacBook Pro de 13 pulgadas con chip M2, 8GB de RAM y 512GB SSD.",
         "category": "Mac"
@@ -313,7 +291,7 @@
         "color": "Plata",
         "storage": "8GB RAM, 256GB SSD",
         "condition": "Nuevo",
-        "price": 490000,
+        "price": 460000,
         "image": "images/products/macbook-pro-13-m2-silver.png",
         "description": "MacBook Pro de 13 pulgadas con chip M2, 8GB de RAM y 256GB SSD.",
         "category": "Mac"
@@ -324,7 +302,7 @@
         "color": "Starlight",
         "storage": "8GB RAM, 256GB SSD",
         "condition": "Nuevo",
-        "price": 490000,
+        "price": 440000,
         "image": "images/products/macbook-air-13-m2-starlight.png",
         "description": "MacBook Air de 13.6 pulgadas con chip M2, diseño ultradelgado y hasta 18 horas de batería.",
         "category": "Mac"
@@ -335,7 +313,7 @@
         "color": "Gris Espacial",
         "storage": "8GB RAM, 512GB SSD",
         "condition": "Nuevo",
-        "price": 540000,
+        "price": 500000,
         "image": "images/products/macbook-air-13-m3-space-gray.png",
         "description": "MacBook Air de 13 pulgadas con chip M3, 8GB de RAM y 512GB SSD.",
         "category": "Mac"
@@ -346,7 +324,7 @@
         "color": "Gris Espacial",
         "storage": "8GB RAM, 256GB SSD",
         "condition": "Nuevo",
-        "price": 500000,
+        "price": 480000,
         "image": "images/products/macbook-air-13-m3-space-gray.png",
         "description": "MacBook Air de 13 pulgadas con chip M3, 8GB de RAM y 256GB SSD.",
         "category": "Mac"
@@ -357,7 +335,7 @@
         "color": "Gris Espacial",
         "storage": "8GB RAM, 256GB SSD",
         "condition": "Nuevo",
-        "price": 540000,
+        "price": 500000,
         "image": "images/products/macbook-air-15-m2-space-gray.png",
         "description": "MacBook Air de 15 pulgadas con chip M2, pantalla más grande y batería de larga duración.",
         "category": "Mac"
@@ -368,7 +346,7 @@
         "color": "Plata",
         "storage": "16GB RAM, 256GB SSD",
         "condition": "Nuevo",
-        "price": 690000,
+        "price": 700000,
         "image": "images/products/imac-24-m4-silver.png",
         "description": "iMac de 24 pulgadas con chip M4, pantalla 4.5K Retina, CPU de 9 núcleos y 16GB de RAM.",
         "category": "Mac"
@@ -379,7 +357,7 @@
         "color": "Plata",
         "storage": "16GB RAM, 256GB SSD",
         "condition": "Nuevo",
-        "price": 640000,
+        "price": 650000,
         "image": "images/products/macbook-air-13-m4-silver.png",
         "description": "MacBook Air de 13.6 pulgadas con chip M4, CPU de 10 núcleos, GPU de 8 núcleos y 16GB de RAM.",
         "category": "Mac"
